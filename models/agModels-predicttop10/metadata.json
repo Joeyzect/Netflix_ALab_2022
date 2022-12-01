@@ -199,6 +199,7 @@
     "locket": "1.0.0",
     "multiprocess": "0.70.14",
     "numba": "0.56.4",
+    "shap": "0.41.0",
     "llvmlite": "0.39.1",
     "wheel": "0.38.4",
     "yapf": "0.32.0",
@@ -253,6 +254,7 @@
     "yacs": "0.1.8",
     "autocfg": "0.0.8",
     "fastdownload": "0.0.7",
+    "slicer": "0.0.7",
     "qudida": "0.0.4"
   }
 }
